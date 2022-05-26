@@ -25,6 +25,8 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    align-self: baseline;
+    width: 90%;
   }
   
   .icon {
@@ -43,8 +45,3 @@ body {
       align-self: center;
       order: -1;
   }
-
-  .emoji p {
-      max-height: 300px;
-  }
-
